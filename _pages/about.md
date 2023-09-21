@@ -14,9 +14,11 @@ My main research interests cover the __political economy of__ international exch
 
 Moreover, I am interested in the __interplay of environmental and trade policy__, for instance the ex-ante policy evaluation of border carbon adjustment in connection to trade policies.  
 
-Getting started
+Why Lille?
 ------
-I have newly arrived in Lille, the capital of the French Hauts-de-France region and the department "Nord". Branded France's "Flemish capital", it boosts of marvellous bricks architecture, reminiscents of the region's former role in the textile and coal mining industries. Since 1993, Lille is connected to the French high-speed railway network, and is served by several TGVs and Eurostar connections per day. This places Lille right into the heart of 🇪🇺, only a daytrip away from Brussels, Paris, and London. You are welcome to visit me here and discover!
+Lille is the capital of the French Hauts-de-France region and the department "Nord". Branded France's "Flemish capital", it boosts of its typical bricks architecture and beer culture, reminiscents of the region's former role in the textile and coal mining industries. 
+
+Since 1993, Lille is connected to the French high-speed railway network, and is served by several TGV and Eurostar connections per day. This places Lille right into the heart of 🇪🇺, only a daytrip away from Brussels, Paris, and London. You are welcome to visit me here and discover!
 
 For more info
 ------
