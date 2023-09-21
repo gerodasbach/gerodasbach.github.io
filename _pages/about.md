@@ -10,7 +10,7 @@ redirect_from:
 
 I am Gero Dasbach, a doctoral student at the [Lille Economie et Management](https://www.lem.univ-lille.fr) laboratory. 
 
-My Ph.D thesis will cover the __political economy of__ international exchanges, such as __foreign direct investment (FDI)__, and trade. My goal is to analyze firms' location choices at different jurisdictional levels - from the nation state to the municipality.
+My Ph.D thesis will cover the __political economy of__ international flows, such as __foreign direct investment (FDI)__, and trade. My goal is to analyze the drivers of firms' location choices at different jurisdictional levels - from the nation state to the municipality.
 
 My further research interests concern the __interplay of environmental and trade policy__, for instance the ex-ante policy evaluation of border carbon adjustment in connection to trade policies.  
 
