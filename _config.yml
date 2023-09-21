@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Gero Dasbach"
+title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "Gero Dasbach"
 description              : &description "Doctoral Student \newline @ University of Lille"
