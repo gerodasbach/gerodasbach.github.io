@@ -18,7 +18,7 @@ Why Lille?
 ------
 Lille is the capital of the French Hauts-de-France region and the department "Nord". Branded France's "Flemish capital", it boosts of its typical bricks architecture and beer culture, reminiscents of the region's former role in the textile and coal mining industries. These days, Lille attracts many students, rendering it a young, dynamic and creative student city.  
 
-Since 1993, Lille is connected to the French high-speed railway network, and is served by several TGV and Eurostar connections per day. This places Lille right into the heart of 🇪🇺, only a daytrip away from Brussels (🇧🇪), Paris (🇫🇷), and London (🇬🇧). You are welcome to visit me here and discover!
+Since 1993, Lille is connected to the French high-speed railway network, and is served by several TGV and Eurostar connections per day. This places Lille right into the heart of 🇪🇺, only a day trip away from Brussels (🇧🇪), Paris (🇫🇷), and London (🇬🇧). You are welcome to visit me here and discover!
 
 For more info
 ------
