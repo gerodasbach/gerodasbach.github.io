@@ -10,9 +10,9 @@ redirect_from:
 
 I am Gero Dasbach, a doctoral student at the [Lille Economie et Management](https://www.lem.univ-lille.fr) laboratory. 
 
-My main research interests cover the __political economy of__ international exchanges, such as __foreign direct investment (FDI)__, migration and trade. 
+My Ph.D thesis will cover the __political economy of__ international exchanges, such as __foreign direct investment (FDI)__, migration and trade. Here, I will analyze different administrative levels - from the nation state to the municipality.
 
-Moreover, I am interested in the __interplay of environmental and trade policy__, for instance the ex-ante policy evaluation of border carbon adjustment in connection to trade policies.  
+My further research interests concern the __interplay of environmental and trade policy__, for instance the ex-ante policy evaluation of border carbon adjustment in connection to trade policies.  
 
 Why Lille?
 ------
