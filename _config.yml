@@ -193,7 +193,7 @@ defaults:
       comments: true
       share: true
       related: true
-  # _research
+  # _publications
   - scope:
       path: ""
       type: research
