@@ -1,7 +1,7 @@
 ---
 title: "The EU-India Free Trade Agreement: Trade, CO2 Emissions, and Welfare Effects under the Carbon Border Adjustment Mechanism"
 collection: research
-permalink: /reseach/2023-10-02_master-thesis_defense-presentation
+permalink: /research/2023-10-02_master-thesis_defense-presentation
 excerpt: 'This is the presentation used in my master's thesis defense.'
 date: 2023-10-02
 venue: ''
