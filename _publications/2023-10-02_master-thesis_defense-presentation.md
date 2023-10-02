@@ -6,7 +6,6 @@ excerpt: 'My master's thesis quantifies the static trade, CO2 emissions, and wel
 date: 2023-10-02
 venue: ''
 paperurl: 'http://academicpages.github.io/files/Master-Thesis_Defense-Presentation.pdf'
-citation: 'Dasbach, Gero. (2023). &quot;The EU-India Free Trade Agreement: Trade, CO2 Emissions, and Welfare Effects under the Carbon Border Adjustment Mechanism.&quot; <i></i>. 1(1).'
 ---
 This paper is work in progress. It is based on my master's thesis. 
 
