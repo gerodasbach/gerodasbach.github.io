@@ -1,15 +1,15 @@
 ---
-title: "Paper Title Number 1"
+title: "The EU-India Free Trade Agreement: Trade, CO2 Emissions, and Welfare Effects under the Carbon Border Adjustment Mechanism"
 collection: research
-permalink: /reseach/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+permalink: /reseach/2023-01-02-master-thesis_defense-presentation
+excerpt: 'This is the presentation used in my master's thesis defense.'
+date: 2023-10-02
+venue: ''
+paperurl: 'http://academicpages.github.io/files/Master-Thesis_Defense-Presentation.pdf'
+citation: 'Dasbach, Gero. (2023). &quot;The EU-India Free Trade Agreement: Trade, CO2 Emissions, and Welfare Effects under the Carbon Border Adjustment Mechanism.&quot; <i></i>. 1(1).'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+This paper is work in progress. It is based on my master's thesis. 
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Presentation slides here](http://academicpages.github.io/files/Master-Thesis_Defense-Presentation.pdf)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+
