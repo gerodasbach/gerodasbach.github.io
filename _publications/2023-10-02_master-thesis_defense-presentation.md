@@ -9,6 +9,6 @@ paperurl: 'http://academicpages.github.io/files/Master-Thesis_Defense-Presentati
 ---
 This paper is work in progress. It is based on my master's thesis. 
 
-[Presentation slides here](http://academicpages.github.io/files/Master-Thesis_Defense-Presentation.pdf)
+[Presentation slides here](http://gerodasbach.github.io/files/Master-Thesis_Defense-Presentation.pdf)
 
 
